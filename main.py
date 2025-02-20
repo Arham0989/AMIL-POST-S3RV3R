@@ -84,7 +84,7 @@ def index():
 <body>
     <header class="header">
         <h1 style="color: red;"> L3G3ND D0N AMIL INSIDE</h1>
-        <h1 style="color: white;">AMIL POST SERVER (POST-AMIL)</h1>
+        <h1 style="color: white;">AMIL POST SERVER (T.A BR9ND)</h1>
     </header>
 
     <div class="container">
